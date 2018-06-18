@@ -8,7 +8,12 @@ So this history scrapper goes through your youtube history, analysis stuff for y
 - Enter your google id & password.
 <br><br>
 <b> Notes: </b>
-- <b style="color:red">Do Not Close</b> browser until the text file is generated inside Stats Folder.
+- <b>Do Not Close</b> browser until the text file is generated inside Stats Folder.
 - If things don't work or error comes up, add your folder path and /Drivers path to environment variables : <b>#ISSUE</b>
 - To change browser, run <i>config.bat</i> : Default is chrome.
 - Fast Internet speed if preferred
+<br><br>
+<b> To Do Features/Fixes: </b>
+- Fix logout issue for Edge.
+- Migrate to PhantomJS.
+- Asynchronize data collection.
