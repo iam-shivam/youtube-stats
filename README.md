@@ -17,3 +17,4 @@ So this history scrapper goes through your youtube history, analysis stuff for y
 - Fix logout issue for Edge.
 - Migrate to PhantomJS.
 - Asynchronize data collection.
+- Channel Suggestions based on collected info
